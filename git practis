@@ -1,1 +1,5 @@
+git init
+gitstatus
+git add noyex.txt
+git status
 
